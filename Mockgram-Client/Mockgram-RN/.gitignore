@@ -1,0 +1,10 @@
+#modules and generated files
+node_modules/**/*
+npm-debug.*
+
+#system files
+.DS_STORE
+.expo/*
+
+#package-lock.json
+package-lock.json
